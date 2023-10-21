@@ -9,7 +9,8 @@ This Pet Shop Dapp allows users to adopt pets using Ethereum transactions. It's 
 ## Demo Video
 
 To see the Dapp in action, please refer to our demo video:
-[Demo Video](demo/pet-shop.mp4)
+[![Demo Video](screenshots/thumbnail.png)](demo/pet-shop.mp4)
+
 
 ## Screenshots
 
